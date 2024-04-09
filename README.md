@@ -8,10 +8,6 @@
 ## Required Libraries
 - `pip install pynput`
 
-## Configuration
-- `TOGGLE_KEY`: Keyboard button used to toggle auto-clicking.
-- `CLICK_TIME`: Time delay before the next click.
-
 ## Author
 Written by KurFil
 
