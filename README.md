@@ -9,5 +9,5 @@
 - `pip install pynput`
 
 ## Author
-Written by KurFil
+- Written by KurFil
 
