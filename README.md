@@ -11,7 +11,7 @@
 - `pynput`
 
 ## Download
-- You can download autoclicker [here]()
+- You can download autoclicker [here](https://github.com/KurFil/AutoClicker/releases/tag/v1.1)
 
 ## Author
 - Written by KurFil
