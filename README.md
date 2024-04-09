@@ -2,11 +2,13 @@
 
 ## Usage Instructions
 - Run the `autoclicker.py` script.
-- To start or stop auto-clicking, press the button specified in the `TOGGLE_KEY` variable (default key is "4").
-- The click frequency can be adjusted by changing the value of the `CLICK_TIME` variable (default is 0.01 seconds/100 clicks per second).
+- To start or stop auto-clicking, press the button specified in the `TOGGLE_KEY` variable (default key is `4`).
+- By default, the increase key is `shift + >` and the decrease key is `shift + <`.
+- You can adjust the click frequency by pressing the keys specified in the `INCREASE_KEY` and `DECREASE_KEY` variables to increase or decrease the time before the next click.
+
 
 ## Required Libraries
-- `pip install pynput`
+- `pynput`
 
 ## Download
 - You can download autoclicker [here]()
