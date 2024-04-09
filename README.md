@@ -8,6 +8,9 @@
 ## Required Libraries
 - `pip install pynput`
 
+## Download
+- You can download autoclicker [here]()
+
 ## Author
 - Written by KurFil
 
